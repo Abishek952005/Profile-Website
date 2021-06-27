@@ -120,6 +120,7 @@ header section.wrapper h2{
 	}
 	#spotlight section.wrapper div.low {
     	margin: 8px -125px 0 -2px;
+    	background-color:#d2b4de ;
 	}
 	#spotlight section.wrapper ul{
 		display: block;
