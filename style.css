@@ -107,6 +107,14 @@ header section.wrapper h2{
 		height: 111vh;
 		padding: 50px;
 	}
+	#spotlight section.wrapper h3{
+		padding-top: 20px;
+		max-width: 460px;
+		font-size: 20px;
+		font-style: italic !important;
+		padding-bottom: 20px;
+		margin-left: 50px;
+	}
 	#spotlight section.wrapper{
 		display: block;
 	}
@@ -131,10 +139,6 @@ header section.wrapper h2{
 	#spotlight section.wrapper div.low{
 		border-radius: 0;
 		margin: 10px -150px 0 -50px;
-	}
-	#spotlight section.wrapper h3{
-		padding-bottom: 25px;
-		margin-left: 23px;
 	}
 }
 #skills{
