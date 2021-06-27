@@ -104,16 +104,16 @@ header section.wrapper h2{
 	#spotlight{
 		background-color:#d2b4de;
 		max-width: 1400px;
-		height: 111vh;
+		height: 135vh;
 		padding: 50px;
 	}
 	#spotlight section.wrapper h3{
-		padding-top: 20px;
+		padding-top: 62px;
 		max-width: 460px;
 		font-size: 20px;
 		font-style: italic !important;
 		padding-bottom: 20px;
-		margin-left: 50px;
+		margin-left: 30px;
 	}
 	#spotlight section.wrapper{
 		display: block;
@@ -227,7 +227,7 @@ section.color h1{
 	div.color{
 		background-color:#7d3c98;
 		text-align: center;
-		margin-top: 50px;
+		margin-top: 0px;
 		padding: 10px 0;
 	}
 	div.color h1{
